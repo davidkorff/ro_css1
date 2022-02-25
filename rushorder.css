@@ -4,3 +4,12 @@ body {
 .body {
   color: red;
 }
+main>section.main>section.header .title {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: px;
+    font-weight: 12000px;
+    color: red;
+    margin-top: 7px;
+    margin-left: 10px;
+}
